@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiJavaAutomationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-18T07:02:28" hostname="DESKTOP-FDNK0LO" time="9.38">
+  <properties/>
+  <testcase name="postCreateUser()" classname="ApiJavaAutomationTest" time="9.38"/>
+  <system-out><![CDATA[{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "221",
+    "createdAt": "2020-08-18T07:03:16.852Z"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

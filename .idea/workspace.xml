@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ff8719-64af-45d5-9771-3a03eefce55b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApiJavaAutomationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiJavaAutomationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fhwwt4JHvKg3qQPG9GZ77agjgR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.ApiJavaAutomationTest.postCreateUser">
+    <configuration name="ApiJavaAutomationTest.deleteEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.deleteEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.getResponseBody" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.getResponseBody&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.postCreateEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.postCreateEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.postCreateUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.postCreateUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.updateUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.updateUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApiJavaAutomationTest.postCreateUser" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.updateUser" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.deleteEmployee" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.postCreateEmployee" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.getResponseBody" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ff8719-64af-45d5-9771-3a03eefce55b" name="Default Changelist" comment="" />
+      <created>1596683873509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596683873509</updated>
+      <workItem from="1596683881648" duration="2590000" />
+      <workItem from="1596850979709" duration="8872000" />
+      <workItem from="1597734009366" duration="1429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1596686364469">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.870/0.-1080.1920.1050@0.0.1600.870" timestamp="1596686364469" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1597745115115">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1600.870/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597745115115" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870/0.-1080.1920.1050@0.0.1600.870" timestamp="1596686232433" />
+    <state width="1557" height="280" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1597745115114">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1600.870/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597745115114" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870/0.-1080.1920.1050@0.0.1600.870" timestamp="1596686232432" />
+    <state width="1557" height="280" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1596862911130" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1597745115114">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1600.870/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597745115114" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870/0.-1080.1920.1050@0.0.1600.870" timestamp="1596686232432" />
+    <state width="1557" height="280" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1596862911130" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1597745115114">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1600.870/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597745115114" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870/0.-1080.1920.1050@0.0.1600.870" timestamp="1596686232432" />
+    <state width="1557" height="280" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state width="1557" height="280" key="GridCell.Tab.1.bottom" timestamp="1596862911131">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state width="1557" height="280" key="GridCell.Tab.1.center" timestamp="1596862911131">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state width="1557" height="280" key="GridCell.Tab.1.left" timestamp="1596862911131">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state width="1557" height="280" key="GridCell.Tab.1.right" timestamp="1596862911131">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1596862911131" />
+    <state x="855" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1596859201052">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="855" y="191" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1596859201052" />
+  </component>
+</project>
